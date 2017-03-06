@@ -1,0 +1,10 @@
+﻿Build started 06-03-2017 22:16:17.
+     1>Project "C:\Users\praha\Downloads\ObjectTracker_Submission_DSP_2015SEP18\objecttracker\ObjectTracker\ObjectTracker.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\praha\Downloads\ObjectTracker_Submission_DSP_2015SEP18\objecttracker\Debug\ObjectTracker.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\praha\Downloads\ObjectTracker_Submission_DSP_2015SEP18\objecttracker\ObjectTracker\..\opencv\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\praha\Downloads\ObjectTracker_Submission_DSP_2015SEP18\objecttracker\Debug\ObjectTracker.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\praha\Downloads\ObjectTracker_Submission_DSP_2015SEP18\objecttracker\Debug\ObjectTracker.lib" /MACHINE:X86 Debug\ObjectTrackerMain.obj
+         ObjectTracker.vcxproj -> C:\Users\praha\Downloads\ObjectTracker_Submission_DSP_2015SEP18\objecttracker\Debug\ObjectTracker.exe
+     1>Done Building Project "C:\Users\praha\Downloads\ObjectTracker_Submission_DSP_2015SEP18\objecttracker\ObjectTracker\ObjectTracker.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.53
